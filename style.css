@@ -1,0 +1,72 @@
+header h1 {
+font-family:arial black;
+text-align:center;
+color:mediumseagreen;
+
+}
+
+header {
+background-image:url(hogo.jpeg);
+background-size:cover;
+height:400px;
+}
+
+header h2{
+font-weight: bold;    
+font-size: 80px;
+color:white;
+text-align: center;
+padding-top: 100px;
+filter:drop-shadow(10px 10px 10px rgba(0,0,0,1))
+}
+
+.siawase a {
+float:left;
+padding:0 80px;
+text-decoration: none;
+margin:0 auto;
+border-radius: 100px;
+}
+
+.pro{
+    display: inline-block;
+    background-color: blueviolet;
+    color:white;
+
+}
+
+.pro:hover {
+opacity:0.8;
+}
+
+
+.maiyan{
+    padding-bottom: 30px;
+    border-bottom:1px solid chartreuse;
+    margin-left: 15px;
+
+}
+
+.kyou h2{
+padding-left: 30px;
+
+}
+
+.kyou li {
+padding-top: 20px;
+
+}
+
+
+
+
+.gohann h1{
+text-align: center;
+color:brown;
+
+}
+
+.gohann {
+margin:0 auto;
+display: inline-block;
+}
